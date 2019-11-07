@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #######################
-#  http://fb.com/ubaii.id.9  #
+#  wa : 082297714704  #
 #######################
 mess = """======================================================
              Deface Script Creator        
@@ -125,6 +125,6 @@ fo.write(messagescript15)
 fo.write(messagescript16)
 
 print "Script Berhasil Di buat!"
-print "Kontak : fb.com/ubaii.id.9"
+print "Kontak wa : 082297714704"
 
 fo.close()
